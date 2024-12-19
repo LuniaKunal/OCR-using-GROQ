@@ -112,3 +112,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [GROQ](https://groq.com) for providing the processing framework.
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) for text recognition.
 - OpenCV and PIL for image processing functionalities.
+- 
+![Screenshot 2024-07-04 213103](https://github.com/user-attachments/assets/c2de14ee-1450-4176-8528-0ef81041baa7)
+![image](https://github.com/user-attachments/assets/cdd8357c-103a-47a8-a721-b372b87c0e18)
