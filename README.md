@@ -28,8 +28,8 @@ To run this project, you need the following:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ocr-mini-project-groq.git
-   cd ocr-mini-project-groq
+   git clone https://github.com/LuniaKunal/OCR-using-GROQ.git 
+   cd OCR-using-GROQ
    ```
 2. Install the dependencies:
    ```bash
